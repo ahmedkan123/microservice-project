@@ -11,6 +11,10 @@ spring:
           lower-case-service-id: true
   main:
     web-application-type: reactive
+  boot:
+    admin:
+      client:
+        url: http://localhost:8888
 eureka:
   client:
     serviceUrl:

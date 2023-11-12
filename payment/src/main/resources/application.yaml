@@ -18,6 +18,10 @@ spring:
   h2:
     console:
       enable: true
+  boot:
+    admin:
+      client:
+        url: http://localhost:8888
   #####Database Config####
 eureka:
   client:

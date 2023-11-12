@@ -16,6 +16,7 @@
 	<properties>
 		<java.version>1.8</java.version>
 		<org.mapstruct.version>1.4.1.Final</org.mapstruct.version>
+		<spring-boot-admin.version>2.7.7</spring-boot-admin.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -97,6 +98,14 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+
+		<!-- spring boot admin client -->
+		<dependency>
+			<groupId>de.codecentric</groupId>
+			<artifactId>spring-boot-admin-starter-client</artifactId>
+			<version>${spring-boot-admin.version}</version>
+		</dependency>
+		<!-- ./ spring boot admin client -->
 
 	</dependencies>
 
