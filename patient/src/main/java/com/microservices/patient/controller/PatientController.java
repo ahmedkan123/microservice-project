@@ -53,7 +53,7 @@ public class PatientController {
         return patientService.getAll();
     }
     @GetMapping("/get-patient-payments")
-    public List<PaymentDTO> getPatientPayments(@RequestHeader Long id){
+    public List<PaymentDTO> getPatientPayments(@RequestHeader("id") Long id){
         return this.paymentService.getPatientPayments(id);
     }
 }
