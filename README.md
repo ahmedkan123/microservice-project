@@ -3,3 +3,4 @@
 + https://app.pluralsight.com/course-player?clipId=d5765d69-95ad-4ead-87f8-65ed8bc7b372
 + https://www.youtube.com/watch?v=p28piYY_wv8&ab_channel=Amigoscode
 + https://rapidapi.com/blog/api-glossary/api/
++ https://blog.stackademic.com/implement-your-search-filter-api-with-spring-data-jpa-specifications-365f2089ef1c
