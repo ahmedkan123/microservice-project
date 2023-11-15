@@ -4,3 +4,5 @@
 + https://www.youtube.com/watch?v=p28piYY_wv8&ab_channel=Amigoscode
 + https://rapidapi.com/blog/api-glossary/api/
 + https://blog.stackademic.com/implement-your-search-filter-api-with-spring-data-jpa-specifications-365f2089ef1c
+### Java Multithreading
++ https://app.pluralsight.com/library/courses/java-concurrency-implementing-certification-1z0-819/table-of-contents
