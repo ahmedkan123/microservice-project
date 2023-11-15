@@ -6,3 +6,6 @@
 + https://blog.stackademic.com/implement-your-search-filter-api-with-spring-data-jpa-specifications-365f2089ef1c
 ### Java Multithreading
 + https://app.pluralsight.com/library/courses/java-concurrency-implementing-certification-1z0-819/table-of-contents
++ https://app.pluralsight.com/library/courses/scaling-java-applications-through-concurrency/table-of-contents
+### Docker With java
++ https://app.pluralsight.com/library/courses/java-apps-docker-developing-2023/table-of-contents
