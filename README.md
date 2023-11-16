@@ -11,3 +11,5 @@
 + https://app.pluralsight.com/library/courses/java-apps-docker-developing-2023/table-of-contents
 ### Spring Cloud Config Server
 + https://www.youtube.com/playlist?list=PLajapDHA6CyeWFG6hbi8wkdxf76m2mmGZ
+### Microservice Architecture
++ https://www.youtube.com/watch?v=mPPhcU7oWDU
