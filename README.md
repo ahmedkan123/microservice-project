@@ -9,3 +9,5 @@
 + https://app.pluralsight.com/library/courses/scaling-java-applications-through-concurrency/table-of-contents
 ### Docker With java
 + https://app.pluralsight.com/library/courses/java-apps-docker-developing-2023/table-of-contents
+### Spring Cloud Config Server
++ https://www.youtube.com/playlist?list=PLajapDHA6CyeWFG6hbi8wkdxf76m2mmGZ
