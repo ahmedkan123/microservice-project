@@ -3,6 +3,7 @@
 + https://app.pluralsight.com/course-player?clipId=d5765d69-95ad-4ead-87f8-65ed8bc7b372
 + https://www.youtube.com/watch?v=p28piYY_wv8&ab_channel=Amigoscode
 + https://rapidapi.com/blog/api-glossary/api/
+#### Implement your Search/Filter API with Spring Data JPA Specifications
 + https://blog.stackademic.com/implement-your-search-filter-api-with-spring-data-jpa-specifications-365f2089ef1c
 ### Java Multithreading
 + https://app.pluralsight.com/library/courses/java-concurrency-implementing-certification-1z0-819/table-of-contents
