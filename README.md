@@ -13,3 +13,8 @@
 + https://www.youtube.com/playlist?list=PLajapDHA6CyeWFG6hbi8wkdxf76m2mmGZ
 ### Microservice Architecture
 + https://www.youtube.com/watch?v=mPPhcU7oWDU
+#### Articles
+##### Ecommerce Example on MS
++ https://medium.com/design-microservices-architecture-with-patterns/design-e-commerce-applications-with-microservices-architecture-c69e7f8222e7
+##### Microservices Communications
++ https://medium.com/design-microservices-architecture-with-patterns/microservices-communications-f319f8d76b71
