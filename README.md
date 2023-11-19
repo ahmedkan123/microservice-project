@@ -27,3 +27,6 @@
 + https://medium.com/design-microservices-architecture-with-patterns/microservices-communications-f319f8d76b71
 ##### Authentication Simplified in Spring Boot Using JWT
 + https://blog.stackademic.com/authentication-simplified-in-spring-boot-using-jwt-45a3573e2b04
+#### Spring Security
++ https://www.youtube.com/watch?v=-W8zj8l4bpI&list=PLMkr7X9JBPp4OlZCl0dzk8nXVb3Qygmeo&index=90
++ https://www.youtube.com/watch?v=KxqlJblhzfI
